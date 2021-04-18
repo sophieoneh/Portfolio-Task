@@ -1,0 +1,44 @@
+img {
+    border-radius: 70%;
+    float:left;
+    padding:10px;
+    background-color: black;
+    color: white;
+  }
+
+  h2 {
+    font-size:xx-large;
+    text-align:left;
+    margin-top: 50px;
+    font-family: Papyrus;
+    background-color: black;
+    color: white;
+    float:left;
+  }
+
+
+  body {
+    background-color: purple;
+  }
+
+  .about {
+    float: none;
+    text-align:center;
+    padding: 70px;
+    background-color:white;
+  }
+
+  .Education{
+    text-align:center;
+    color: white;
+  }
+
+  .Contact{
+    text-align:center;
+    color: white;
+  }
+
+  p {
+    font-family: Papyrus;
+    font-size: 20px;
+  }
